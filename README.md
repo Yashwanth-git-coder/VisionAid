@@ -17,6 +17,7 @@ VisionAid is a Python-based project aimed at improving accessibility for visuall
 ## Installation
 1. Clone the repository:
 
+    https://github.com/Yashwanth-git-coder/VisionAid.git
 
 2. Install dependencies:
 
