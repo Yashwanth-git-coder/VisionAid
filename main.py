@@ -427,7 +427,7 @@ cap = cv2.VideoCapture(0)
 r = sr.Recognizer()
 
 # Initialize OpenAI API key
-openAPI_KEY = "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"
+openAPI_KEY = "openAPI_KEY"
 openai.api_key = openAPI_KEY
 
 
